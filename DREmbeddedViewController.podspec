@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name         = "DREmbeddedViewController"
   s.version      = "0.1"
   s.summary      = "Allows embedding one UIViewController in other UIViewController the easy way"
-  s.homepage     = "https://github.com/darrarski/DREmbeddedViewController-iOS.git"
+  s.homepage     = "https://bitbucket.org/darrarski/drembeddedviewcontroller-ios"
   s.license      = 'MIT'
   s.author       = { "Darrarski" => "darrarski@gmail.com" }
-  s.source       = { :git => "https://github.com/darrarski/DREmbeddedViewController-iOS.git" }
+  s.source       = { :git => "https://bitbucket.org/darrarski/drembeddedviewcontroller-ios.git" }
   s.source_files = 'DREmbeddedViewController/UIViewController+DREmbeddedViewController.{h,m}'
   s.platform     = :ios
   s.requires_arc = true

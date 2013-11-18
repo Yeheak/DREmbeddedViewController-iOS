@@ -7,4 +7,4 @@ Allows embedding one UIViewController in other UIViewController the easy way.
 
 Add this line to your project's Podfile:
 
-	pod "DREmbeddedViewController", :git => "https://github.com/darrarski/DREmbeddedViewController-iOS.git"
+	pod "DREmbeddedViewController", :git => "https://bitbucket.org/darrarski/drembeddedviewcontroller-ios.git"
