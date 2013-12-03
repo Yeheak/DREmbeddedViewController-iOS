@@ -1,5 +1,5 @@
-DREmbeddedViewController iOS Library
-====================================
+DREmbeddedViewController for iOS
+================================
 
 Allows embedding one UIViewController in other UIViewController the easy way.
 
